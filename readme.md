@@ -3,10 +3,21 @@ Box Geometry Models - BGM files for Atlantis
 
 This is a collection of BGM files. 
 
-Get the collection
+Its used as a raw storing house for the files, which are also made available directly in R. 
+
+
+R package
+----------
+
+To access these files from R, see the [`bgmfiles` package](https://github.com/AustralianAntarcticDivision/bgmfiles). 
+
+
+Get the raw collection
 -----------
 
-Use `git clone` to obtain a copy. 
+You only need to do this if you want to contribute to the collection or help with its maintenance. 
+
+Use `git clone` to obtain a copy of this repository. 
 
 ```bash
 git clone https://github.com/AustralianAntarcticDivision/box-geometry-models.git
@@ -14,7 +25,6 @@ git clone https://github.com/AustralianAntarcticDivision/box-geometry-models.git
 
 That's it. 
 
-I may create a R data package for these files, stay tuned. 
 
 How can I contribute?
 -----------
