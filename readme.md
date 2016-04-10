@@ -3,7 +3,10 @@ Box Geometry Models - BGM files for Atlantis
 
 This is a collection of BGM files. 
 
-Its used as a raw storing house for the files, which are also made available directly in R. 
+**PLEASE NOTE:** this is not an official source of BGM for use in Atlantis. 
+
+
+It is used as a raw storing house for the files for software development purposes. 
 
 
 R package
