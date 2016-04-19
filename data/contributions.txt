@@ -1,4 +1,4 @@
-file, contributor
+file, contributor, link
 GOM_BGM.bgm, CA
 ams71.bgm, AA
 VMPA_setas.bgm, AA
@@ -6,3 +6,4 @@ antarctica_99.bgm, MS
 antarctica_28.bgm, MS
 AEEC_poly_projETRS89_LAEA_snapped0p002.bgm, RG
 Guam_utm1.bgm, MW
+CalCurrentV3_utm.bgm, IK, https://www.nwfsc.noaa.gov/research/divisions/cb/ecosystem/marineecology/aem.cfm
