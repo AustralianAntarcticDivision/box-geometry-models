@@ -8,3 +8,5 @@ AEEC_poly_projETRS89_LAEA_snapped0p002.bgm, RG
 Guam_utm1.bgm, MW
 CalCurrentV3_utm.bgm, IK, https://www.nwfsc.noaa.gov/research/divisions/cb/ecosystem/marineecology/aem.cfm
 Nordic02.bgm, CH
+JFRE_xy.bgm, JP
+JFRE_ll.bgm, JP
