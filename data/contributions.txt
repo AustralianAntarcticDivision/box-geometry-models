@@ -8,3 +8,4 @@ AEEC_poly_projETRS89_LAEA_snapped0p002.bgm, RG
 Guam_utm1.bgm, MW
 CalCurrentV3_utm.bgm, IK, https://www.nwfsc.noaa.gov/research/divisions/cb/ecosystem/marineecology/aem.cfm
 Nordic02.bgm, CH
+NGOM.bgm, CA, https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!topic/atlantis-ecosystem-model/IIzXs2XK9NQ
